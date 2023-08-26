@@ -273,6 +273,7 @@ img {
 .footerbar {
   background: #2e2f42;
   padding: 100px 156px;
+  width: 1440px;
 }
 .footer-logo {
   color: #f4f4fd;
@@ -310,5 +311,4 @@ img {
 .text-footer {
   max-width: 264px;
   margin-top: 18px;
-  width: 1440px;
 }
