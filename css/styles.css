@@ -46,6 +46,7 @@ img {
 }
 .nav-container {
   display: flex;
+  align-items: center;
 }
 /* WEB-LOGO-NAV */
 .nav-link {
