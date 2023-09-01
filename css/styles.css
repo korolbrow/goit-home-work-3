@@ -91,6 +91,7 @@ img {
 }
 
 /* ADRESS NAV */
+
 .nav-contact {
   font-style: normal;
   display: flex;
@@ -114,7 +115,6 @@ img {
 /* SECTION - 1 - HERO */
 .hero {
   background-color: #2e2f42;
-
   margin-left: auto;
   margin-right: auto;
   padding: 188px 0;
@@ -129,9 +129,7 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
-.page-hero {
-  background-color: #2e2f42;
-}
+
 /* BUTTON */
 .button {
   background: #4d5ae5;
